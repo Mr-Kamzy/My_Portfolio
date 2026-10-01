@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="g51" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3ED6C4"/>
+      <stop offset="100%" stop-color="#4C7CFF"/>
+    </linearGradient>
+    <filter id="blur51"><feGaussianBlur stdDeviation="40"/></filter>
+  </defs>
+  <rect width="200" height="200" fill="#10141F"/>
+  <g filter="url(#blur51)"><circle cx="128" cy="141" r="50" fill="url(#g51)" opacity="0.35"/><circle cx="62" cy="59" r="75" fill="url(#g51)" opacity="0.35"/><circle cx="65" cy="101" r="75" fill="url(#g51)" opacity="0.35"/></g>
+  <rect width="200" height="200" fill="#0A0D14" opacity="0.25"/>
+  <text x="50%" y="50%" font-family="Space Grotesk, sans-serif" font-size="14" fill="#EDEFF7" fill-opacity="0.85" text-anchor="middle" dominant-baseline="middle">C1</text>
+</svg>

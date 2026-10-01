@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" width="700" height="700">
+  <defs>
+    <linearGradient id="g38" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4C7CFF"/>
+      <stop offset="100%" stop-color="#3ED6C4"/>
+    </linearGradient>
+    <filter id="blur38"><feGaussianBlur stdDeviation="40"/></filter>
+  </defs>
+  <rect width="700" height="700" fill="#10141F"/>
+  <g filter="url(#blur38)"><circle cx="439" cy="104" r="156" fill="url(#g38)" opacity="0.35"/><circle cx="375" cy="474" r="235" fill="url(#g38)" opacity="0.35"/><circle cx="44" cy="622" r="310" fill="url(#g38)" opacity="0.35"/></g>
+  <rect width="700" height="700" fill="#0A0D14" opacity="0.25"/>
+  <text x="50%" y="50%" font-family="Space Grotesk, sans-serif" font-size="49" fill="#EDEFF7" fill-opacity="0.85" text-anchor="middle" dominant-baseline="middle">Frame 08</text>
+</svg>
